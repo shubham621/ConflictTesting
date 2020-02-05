@@ -2,8 +2,8 @@
 public class Print {
 
 	public static void main(String[] args) {
-		for(int i=0;i<100;i++)
-			System.out.println("print: "+i);
+		for(int p=0;p<100;p++)
+			System.out.println("print: "+p);
 			
 
 	}
